@@ -43,6 +43,8 @@ The AI Shopping Assistant acts like a personal fashion search agent:
 
    streamlit run shopping_app.py
 
+  
+📌This project is intended for educational and demonstration purposes only. Product results depend on third-party website indexing and may not always reflect real-time availability or pricing.
 
 --------------------------
 Made by: Rohita Oswal
